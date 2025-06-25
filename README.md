@@ -26,7 +26,6 @@ Passionate about creating robust, scalable web applications and optimizing devel
 
 ### 📜 Certifications
 
-- CEH v9
 - JavaScript Algorithms and Data Structures
 - Real World Vue 3 (Composition API)
 - SQL Database Implementation
